@@ -10,7 +10,7 @@ import { MirrorDirMeta, PostShadersBody, RyusakShaders, GithubIssue, GameBananaS
 import Enumerable from "linq";
 
 const USER_AGENT: string = `RyuSAK/${app.getVersion()}`;
-const CDN_URL: string = "https://mirror.lewd.wtf";
+const CDN_URL: string = "https://hel1-1.mirror.lewd.wtf/";
 
 export enum HTTP_PATHS {
   FIRMWARE_LIST     = "/json/archive/nintendo/switch/firmware/",
